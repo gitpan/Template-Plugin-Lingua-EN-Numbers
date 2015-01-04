@@ -8,7 +8,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     AUTHOR              => 'Barbie <barbie@cpan.org>',
-    NAME                => 'Template-Plugin-Lingua::EN::Numbers',
+    NAME                => 'Template::Plugin::Lingua::EN::Numbers',
     VERSION_FROM        => 'lib/Template/Plugin/Lingua/EN/Numbers.pm',
     ABSTRACT            => 'TT2 interface to Lingua::EN::Numbers modules',
     NO_META             => 1,

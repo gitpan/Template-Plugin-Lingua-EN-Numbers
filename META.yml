@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                     Template-Plugin-Lingua-EN-Numbers
-version:                  0.01
+version:                  0.02
 abstract:                 TT2 interface to Lingua::EN::Numbers modules
 author:
   - Barbie <barbie@cpan.org>
@@ -30,7 +30,7 @@ build_requires:
 provides:
   Template::Plugin::Lingua::EN::Numbers:
     file:     lib/Template/Plugin/Lingua/EN/Numbers.pm
-    version:  0.01
+    version:  0.02
 no_index:
   directory:
     - t
@@ -44,4 +44,4 @@ resources:
 meta-spec:
    version:   1.4
    url:       http://module-build.sourceforge.net/META-spec-v1.4.html
-generated_by: Hand 1.0
+generated_by: The Hand of Barbie 1.0
